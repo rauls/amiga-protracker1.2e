@@ -1,0 +1,6 @@
+delete pt12
+delete pt12.lha
+lha -r a pt12.lha #?
+copy pt12.lha df0:source/
+genam pt12
+copy pt12 df0:c
